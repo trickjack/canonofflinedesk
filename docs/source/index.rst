@@ -145,7 +145,7 @@ Go to **Control Panel > Devices and Printers**, right-click your printer, select
 
 **Q. Should I update my Canon printer drivers if it keeps going offline?**
 
-Yes. Outdated or incompatible drivers often cause offline issues. Download the latest drivers from `https://ij.start.canon` and install them.
+Yes. Outdated or incompatible drivers often cause offline issues. Download the latest drivers from `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_ and install them.
 
 **Q. Can a stuck print job cause my Canon printer to go offline?**
 
